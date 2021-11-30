@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "T20 World Cup: The toxic trolling of India's cricket stars - BBC News",
+            "description": "As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media.",
+            "url": "https://www.bbc.com/news/world-asia-india-59059493",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B4A/production/_121262486_gettyimages-1229852678-594x594.jpg",
+            "publishedAt": "2021-10-30T00:37:20Z",
+            "content": "By Zoya MateenBBC News, Delhi\r\nImage source, Getty Images\r\nImage caption, India's defeat against Pakistan in the T20 World Cup has sparked a wave of online abuse against cricketers\r\nWhen India's cric… [+6973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Press Trust of India",
+            "title": "T20 World Cup, WI vs BAN: West Indies Edge Past Bangladesh To Keep Semifinal Hopes Alive | Cricket News - NDTVSports.com",
+            "description": "T20 World Cup, WI vs BAN: West Indies kept their semifinal hopes alive as they sealed a narrow three-run victory against Bangladesh on Friday.",
+            "url": "https://sports.ndtv.com/icc-t20-world-cup-2021/t20-world-cup-wi-vs-ban-west-indies-edge-past-bangladesh-to-keep-semifinal-hopes-alive-2592716",
+            "urlToImage": "https://c.ndtvimg.com/2021-10/5sr1hg1_pooran-afp_625x300_29_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2021-10-29T14:33:19Z",
+            "content": "Defending champions West Indies kept alive their slender hopes of making the semifinals while virtually knocking Bangladesh out of the T20 World Cup with a narrow three-run win on Friday. Asked to se… [+3358 chars]"
+        }
+    ]
+}
